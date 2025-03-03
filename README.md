@@ -1,2 +1,2 @@
 # Delta
-This is a demo for creating github repository
+This is a demo for creating github repository.
